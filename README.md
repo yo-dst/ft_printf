@@ -1,3 +1,3 @@
 # ft_printf
 
-✏️ An implementation of 'printf' function in C
+✏️ An implementation of the 'printf' function in C
